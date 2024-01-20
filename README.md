@@ -1,4 +1,4 @@
-[![image](https://github.com/Himadri-123/himadri_haldar/blob/main/assert/backgroudpic.png)](https://www.linkedin.com/in/himadri-shekhar-haldar-b2b467154/)
+[![image](https://github.com/Himadri-123/Himadri-123/blob/main/assert/backgroudpic.png)](https://www.linkedin.com/in/himadri-shekhar-haldar-b2b467154/)
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/himadri-shekhar-haldar-b2b467154/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
